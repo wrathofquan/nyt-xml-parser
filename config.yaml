@@ -3,5 +3,5 @@ nitf:
   <primary_key>: /nitf/head/docdata/doc-id/@id-string
   <fields>:
     /nitf/head/title: title
-    /nitf/head/docdata/date.issue/@norm: date
+    /nitf/head/pubdata/@date.publication: date
     /nitf/body/body.content: paragraphs
