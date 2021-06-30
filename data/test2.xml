@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+  <nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+      <head>
+          <title>Slowly, Asia’s Factories Begin to Turn Green</title>
+          <meta content="08factories" name="slug"/>
+          <meta content="Business" name="dsk"/>
+          <meta content="New York Times" name="cre"/>
+          <meta content="NewYork" name="edt"/>
+          <meta content="" name="cl"/>
+          <meta content="NYT5 Article" name="template"/>
+          <meta content="" name="adsensitivity"/>
+          <meta content="n" name="pay"/>
+          <meta content="" name="guid"/>
+          <meta content="2014-01-08-720143" name="sqn"/>
+          <meta content="6" name="print_page_number"/>
+          <meta content="B" name="print_section"/>
+          <meta content="Slowly, Asia’s Factories Begin to Turn Green" name="print_headline"/>
+          <meta content="" name="page_title"/>
+          <meta content="business" name="section"/>
+          <meta content="international" name="subsection"/>
+          <meta content="Business" name="section_display_name"/>
+          <meta content="International Business" name="subsection_display_name"/>
+          <meta content="" name="parent_section_display_name"/>
+          <meta content="" name="masthead_url"/>
+          <meta content="n" name="comment_flag"/>
+          <meta content="2017-12-20 11:49:49" name="updated_date"/>
+          <meta content="minor" name="update_type"/>
+          <meta content="Article" name="asset_type"/>
+          <meta content="20190309" name="print-date"/>
+          <meta content="NYT" name="print-edition"/>
+          <tobject tobject.type="news">
+              <tobject.property tobject.property.type="current"/>
+          </tobject>
+          <docdata management-status="usable">
+              <doc-id id-string="100000002572014" regsrc="NYT"/>
+              <date.issue norm="20140108T000000"/>
+              <date.release norm="20140107T182723"/>
+              <doc.copyright holder="The New York Times Company" year="2019"/>
+              <identified-content>
+                  <classifier type="des">Energy Efficiency</classifier>
+                  <classifier type="des">Factories and Manufacturing</classifier>
+                  <classifier type="des">Sustainable Living</classifier>
+                  <classifier type="des">Leadership in Energy and Environmental Design (LEED)</classifier>
+                  <classifier type="tom">News</classifier>
+                  <location>Far East, South and Southeast Asia and Pacific Areas</location>
+                  <location>Ho Chi Minh City (Vietnam)</location>
+                  <person class="reference">Ives, Mike</person>
+              </identified-content>
+              <key-list>
+                  <keyword key="Ives, Mike"/>
+                  <keyword key="Far East, South and Southeast Asia and Pacific Areas"/>
+                  <keyword key="Energy Efficiency"/>
+                  <keyword key="Factories and Manufacturing"/>
+                  <keyword key="Sustainable Living"/>
+                  <keyword key="Leadership in Energy and Environmental Design (LEED)"/>
+                  <keyword key="United States Green Building Council"/>
+                  <keyword key="Intel Corporation"/>
+                  <keyword key="Ho Chi Minh City (Vietnam)"/>
+                  <keyword key="International Organization for Standardization"/>
+              </key-list>
+          </docdata>
+          <pubdata date.publication="20140107T000000" ex-ref="https://www.nytimes.com/2014/01/08/business/international/asian-factories-see-sense-and-savings-in-environmental-certification.html" item-length="1112" name="New York Times" position.section="business" type="web" unit-of-measure="word"/>
+      </head>
+      <body>
+          <body.head>
+              <hedline>
+                  <hl1>Slowly, Asia’s Factories Begin to Turn Green</hl1>
+                  <hl2 class="col"/>
+              </hedline>
+              <byline>By Mike Ives</byline>
+              <dateline class="print">HO CHI MINH CITY, Vietnam</dateline>
+              <abstract>
+                  <p>Multinationals and local suppliers are increasingly going beyond local regulations in designing factories that cut energy costs and pollute less.</p>
+              </abstract>
+          </body.head>
+          <body.content>
+              <block class="txt">
+                  <p>HO CHI MINH CITY, Vietnam — When Intel went about setting up its chip factory in Vietnam, it found an oddity: Local laws did not govern every aspect of the building.</p>
+                  <p>The government had no comprehensive standards, for instance, on refrigerant chemicals, which in the United States are typically regulated by the Environmental Protection Agency. In fact, officials asked Intel whether the company had any ideas on the subject that might be useful to other manufacturers operating in the country.</p>
+                  <p>Yet today, Intel’s $1 billion plant, about 10 miles from downtown Ho Chi Minh City, embraces environmental and sustainability measures far beyond those required by Vietnam’s laws. Opened in 2010, the complex has the country’s largest operating solar array. Company officers say a new water-reclamation system could soon help it reduce water consumption as much as 68 percent. It is also vying for certification by the U.S. Green Building Council</p>
+                  <p>Intel didn’t have to go to these lengths, but the motivation for these measures is simple, said the complex’s general manager, Sherry Boger: “It turns out, what’s good for the environment is also good for business.”</p>
+                  <p>Western multinationals — and in some cases, their Asian suppliers — have in the last five years started to build more environmentally sound factories in developing countries, green-building experts say. The U.S. Green Building Council, a leading global certifier, reports that only about 300 manufacturing facilities in Asia are certified or waiting for certification through its rating tool, called Leadership in Energy and Environmental Design, or LEED.</p>
+                  <p>Efficiency consultants in Asia say it is difficult to estimate how much energy or money an average multinational saves by having a green-certified factory building. But the certification trend is potentially significant in Asia because so many consumer and industrial goods are manufactured in the region, offering enormous potential for energy savings if the practice becomes widespread, experts say. And a trickle of factory data suggests the energy savings at certified facilities are significant.</p>
+                  <p>Intel, for example, has reduced its global energy bill by $111 million since 2008 as a result of $59 million worth of sustainability investments in 1,500 projects worldwide, Ms. Boger said. The projects have offset carbon dioxide emissions equivalent to the amount produced by 126,000 American households per year, she added, and Intel’s $1.1 million solar array at the Vietnam facility offsets each day an amount of carbon dioxide equivalent to that emitted by about 500 of Vietnam’s motorbikes.</p>
+                  <p>In 2011, an efficiency survey found that compared with a typical factory, a LEED-certified shoe factory in southern Vietnam that produces exclusively for Nike uses 18 percent less electricity and fuel and 53 percent less water, according to Melissa Merryweather, the lead sustainability consultant for the project. The factory is owned by Taekwang Vina, a joint venture of the South Korean manufacturer Taekwang and a Vietnamese partner. </p>
+                  <p>Stephanie Clark, a spokeswoman for the American consumer products giant Colgate-Palmolive, provided statistics indicating that the company’s seven LEED-certified factories worldwide had reduced construction waste and lowered water and energy use. Ms. Clark added that four more such factories were under construction, and the <a href="http://www.colgate.com/Colgate/US/Corp_v2/LivingOurValues/Sustainability_v2/Colgate_Sustainability2012_Planet.pdf" title="A link to the site. ">company’s website</a> shows that its 11 total LEED projects worldwide — five of them in Asia — represent about a third of the company’s manufacturing sites.</p>
+                  <p>Malaysia’s government has certified about 750,000 square feet of factory space since 2009, according to the Malaysia Green Building Confederation, representing about 1 percent of its total building certifications. And Kevin Mo, director of the China buildings program at the Energy Foundation, a San Francisco-based nonprofit, said that Chinese authorities had included 8 factories among the 742 buildings it certified by the end of 2012. Most of the others were residential or commercial, he said; other factories were in the pipeline.</p>
+                  <p>A market for industrial efficiency upgrades is also growing in India, where many factory owners worry about power outages, said Prashant Kapoor, principal industry specialist for green buildings at the International Finance Corporation, the private sector arm of the World Bank. He added that demand for upgrades was now consistent enough there that a few domestic contractors were beginning to specialize in it.</p>
+                  <p>In contrast with Western multinationals, whose target consumers value a green approach, most domestic manufacturers in Asia typically do not see palpable benefits in applying for independent certification, sustainability experts say. Some are building greener, however, or investing in efficiency retrofits as a way of reducing energy consumption or in response to pending government regulations.</p>
+                  <p>Jackson Seng, professional services director at the Singapore office of Schneider Electric, a French energy consulting firm, said he fielded four or five times as many requests for efficiency upgrades at factories as he did five years ago. Upgrading typically includes energy audits and installation of energy monitoring software, as well as replacing electric motors, which often consume a vast proportion of a factory’s power supply.</p>
+                  <p>Mr. Seng said that 90 percent of his clients were motivated by a desire to reduce energy costs, rather than to polish their corporate images or improve their chances of earning an international certification like LEED. </p>
+                  <p>Consultants say Western multinationals typically apply for independent certification of factory structures, not as a way of complying with local laws, but because sustainable building design is increasingly a corporate policy in the United States and Europe. From a marketing perspective, a certified factory in Asia presents a positive contrast to events like <a href="http://www.nytimes.com/2013/05/23/world/asia/report-on-bangladesh-building-collapse-finds-widespread-blame.html" title="Times article.">the collapse last year</a> of a poorly built garment factory in Bangladesh and dozens of reports of chemical spills and other manufacturing mishaps over the years.</p>
+                  <p>“These big corporates have decided to push through a policy” of seeking independent certification for their global manufacturing facilities, said Michelle Malanca, vice president of the Toronto-based World Green Building Council. “It has a lot to do with risk mitigation.”</p>
+                  <p>Such risk typically takes the form of a public relations disaster that might result from environmental accidents or scandals, and Western multinationals are seeking factory certifications out of self-interest rather than good will, said Damien Duhamel, managing director at Solidiance, a Singapore-based consulting firm that specializes in Asia’s green-building sector.</p>
+                  <p>Mr. Duhamel said many of the companies — especially American corporations that sell directly to consumers, rather than to businesses — had in recent years cleaned up their labor practices in response to campaigns by Western advocacy groups. But companies’ environmental policies are fast becoming the next target of such campaigns, he added, and the potential risk to a global brand is heightened by the growing importance of social media, which can amplify negative publicity.</p>
+                  <p>“The next battle will be here,” Mr. Duhamel said of corporate environmental standards. “This is why some smart companies — Intel, for example — took the steps of being proactive.”</p>
+              </block>
+              <block class="ils_text"/>
+              <block class="ils"/>
+              <block class="related_topics"/>
+              <block class="related_slideshows"/>
+              <block class="related_articles"/>
+              <block class="review">
+                  <classifier class="performers" type=""/>
+                  <classifier class="author" type=""/>
+                  <classifier class="director" type=""/>
+                  <classifier class="producers" type=""/>
+                  <classifier class="release_date" type=""/>
+                  <classifier class="rating" type=""/>
+                  <classifier class="children" type=""/>
+                  <classifier class="parental_notes" type=""/>
+                  <classifier class="length" type=""/>
+                  <classifier class="review_sent" type=""/>
+                  <classifier class="review_title" type=""/>
+                  <classifier class="review_author" type=""/>
+                  <classifier class="tols_author" type=""/>
+                  <classifier class="tols_title" type=""/>
+                  <classifier class="type" type=""/>
+                  <classifier class="amg_id" type=""/>
+                  <classifier class="nyt_movie_id" type=""/>
+                  <classifier class="nyt_tv_id" type=""/>
+              </block>
+          </body.content>
+          <body.end>
+              <tagline class="contributed" type="std">
+                  <copyrite>Copyright 2019 The New York Times Company</copyrite>
+              </tagline>
+          </body.end>
+      </body>
+  </nitf>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nytimes.com/applicationdata/xml/nitf-3-3.dtd">
+  <nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+      <head>
+          <title>Afghanistan’s Worsening, and Baffling, Hunger Crisis</title>
+          <meta content="05hunger" name="slug"/>
+          <meta content="Foreign" name="dsk"/>
+          <meta content="New York Times" name="cre"/>
+          <meta content="NewYork" name="edt"/>
+          <meta content="" name="cl"/>
+          <meta content="Standard Article" name="template"/>
+          <meta content="" name="adsensitivity"/>
+          <meta content="n" name="pay"/>
+          <meta content="" name="guid"/>
+          <meta content="2014-01-05-876151" name="sqn"/>
+          <meta content="6" name="print_page_number"/>
+          <meta content="A" name="print_section"/>
+          <meta content="Afghanistan’s Worsening, and Baffling, Hunger Crisis" name="print_headline"/>
+          <meta content="" name="page_title"/>
+          <meta content="world" name="section"/>
+          <meta content="asia" name="subsection"/>
+          <meta content="World" name="section_display_name"/>
+          <meta content="Asia Pacific" name="subsection_display_name"/>
+          <meta content="" name="parent_section_display_name"/>
+          <meta content="" name="masthead_url"/>
+          <meta content="n" name="comment_flag"/>
+          <meta content="2017-12-20 11:49:47" name="updated_date"/>
+          <meta content="minor" name="update_type"/>
+          <meta content="Article" name="asset_type"/>
+          <meta content="20190309" name="print-date"/>
+          <meta content="NYT" name="print-edition"/>
+          <tobject tobject.type="news">
+              <tobject.property tobject.property.type="current"/>
+          </tobject>
+          <docdata management-status="usable">
+              <doc-id id-string="100000002487615" regsrc="NYT"/>
+              <date.issue norm="20140105T000000"/>
+              <date.release norm="20140104T115548"/>
+              <doc.copyright holder="The New York Times Company" year="2019"/>
+              <identified-content>
+                  <classifier type="des">Malnutrition</classifier>
+                  <classifier type="des">Diet and Nutrition</classifier>
+                  <classifier type="des">Children and Childhood</classifier>
+                  <classifier type="tom">News</classifier>
+                  <location>Afghanistan</location>
+                  <person class="reference">Nordland, Rod</person>
+              </identified-content>
+              <key-list>
+                  <keyword key="Malnutrition"/>
+                  <keyword key="Nordland, Rod"/>
+                  <keyword key="Doctors Without Borders"/>
+                  <keyword key="Afghanistan"/>
+                  <keyword key="Diet and Nutrition"/>
+                  <keyword key="Children and Childhood"/>
+              </key-list>
+          </docdata>
+          <pubdata date.publication="20140104T000000" ex-ref="https://www.nytimes.com/2014/01/05/world/asia/afghanistans-worsening-and-baffling-hunger-crisis.html" item-length="1608" name="New York Times" position.section="world" type="web" unit-of-measure="word"/>
+      </head>
+      <body>
+          <body.head>
+              <hedline>
+                  <hl1>Afghanistan’s Worsening, and Baffling, Hunger Crisis</hl1>
+                  <hl2 class="col"/>
+              </hedline>
+              <byline>By Rod Nordland</byline>
+              <dateline class="print">LASHKAR GAH, Afghanistan</dateline>
+              <abstract>
+                  <p>Hospitals are reporting more and more cases, but doctors and other officials are not certain why, or even how many children are affected.</p>
+              </abstract>
+          </body.head>
+          <body.content>
+              <block class="txt">
+                  <p>LASHKAR GAH, Afghanistan — In the Bost Hospital here, a teenage mother named Bibi Sherina sits on a bed in the severe acute malnutrition ward with her two children. Ahmed, at just 3 months old, looks bigger than his emaciated brother Mohammad, who is a year and a half and weighs 10 pounds.</p>
+                  <p>In another bed is Fatima, less than a year old, who is so severely malnourished that her heart is failing, and the doctors expect that she will soon die unless her father is able to find money to take her to Kabul for surgery. The girl’s face bears a perpetual look of utter terror, and she rarely stops crying. Half of the other children in the ward are crying as well, a cacophony that rarely pauses.</p>
+                  <p>Afghan hospitals like Bost, in the capital of war-torn Helmand Province, have been registering significant increases in severe malnutrition among children. Countrywide, such cases have increased by 50 percent or more compared with 2012, according to United Nations figures. Doctors report similar situations in Kandahar, Farah, Kunar, Paktia and Paktika Provinces — all places where warfare has disrupted people’s lives and pushed many vulnerable poor over the nutritional edge.</p>
+                  <p>Even the capital has seen an increase. “In 2001, it was even worse, but this is the worst I’ve seen since then,” said Dr. Saifullah Abasin, head of the malnutrition ward at Indira Gandhi Children’s Hospital in Kabul.</p>
+                  <p>Reasons for the increase remain uncertain, or in dispute. Most doctors and aid workers agree that continuing war and refugee displacement are contributing. Some believe that the growing number of child patients may be at least partly a good sign, as more poor Afghans are hearing about treatment available to them.</p>
+                  <p>What is clear is that, despite years of Western involvement and billions of dollars in humanitarian aid to Afghanistan, children’s health is not only still a problem, but also worsening, and the doctors bearing the brunt of the crisis are worried.</p>
+                  <p>Nearly every potential lifeline is strained or broken here. Efforts to educate people about nutrition and health care are often stymied by conservative traditions that cloister women away from anyone outside the family. Agriculture and traditional local sources of social support have been disrupted by war and the widespread flight of refugees to the cities. And therapeutic feeding programs, complex operations even in countries with strong health care systems, have been compromised as the flow of aid and transportation have been derailed by political tensions or violence.</p>
+                  <p>Perhaps nowhere is the situation so obviously serious as in the malnutrition ward at Bost Hospital, which is admitting 200 children a month for severe, acute malnutrition — four times more than it did in January 2012, according to officials with Doctors Without Borders, known in French as <a href="https://www.doctorswithoutborders.org/donate/onetime.cfm?source=AZD130000S02&amp;utm_source=google&amp;utm_medium=ppc&amp;gclid=CJSHqc7H4LsCFWJo7AodtxgAgg&amp;mpch=ads" title="Organization website.">Médecins Sans Frontières</a>, which supports the Afghan-run hospital with financing and supplementary staff.</p>
+                  <p>One patient, a 2-year-old named Ahmed Wali, is suffering from the protein deficiency condition <a href="http://www.nytimes.com/health/guides/disease/kwashiorkor/overview.html" title="Times Health Guide page.">kwashiorkor</a>, with orange hair, a distended belly and swollen feet. An 8-month-old boy named Samiullah is suffering from <a href="http://www.britannica.com/EBchecked/topic/363838/marasmus" title="Britannica.com entry.">marasmus</a>, another form of advanced malnutrition in which the child’s face looks like that of a wrinkled old man because the skin hangs so loosely.</p>
+                  <p>Médecins Sans Frontières helped Bost Hospital nearly double the number of beds in the pediatric wing at the end of last year, and there are still not enough — 40 to 50 children are usually being treated each day, mostly two to a bed because they are so small. Nearly 300 other children, less severely malnourished, are in an outpatient therapeutic feeding program.</p>
+                  <p>Now, M.S.F. is planning to open five satellite clinics with intensive feeding programs in Lashkar Gah to take the pressure off the overcrowded hospital.</p>
+                  <p>Despite the increase in the malnutrition caseload, doctors and health officials are not sure there has actually been a sharp rise in child malnutrition that can be attributed to any single factor.</p>
+                  <p>“It’s quite an unusual situation, and it’s difficult to understand what’s going on,” said Wiet Vandormael, an M.S.F. official who has helped coordinate with Bost Hospital.</p>
+                  <p>In part, expansion of the hospital’s facilities has acted as a magnet, drawing more cases, Mr. Vandormael said. Unlike at other public hospitals in Afghanistan, patients and their caregivers do not have to pay for their own medicine and food at Bost. And M.S.F. has been able to ensure that it gets regular deliveries of Unicef-provided therapeutic foods used to treat malnutrition.</p>
+                  <p>“Our treatment is better, so we get more patients as they hear about it,” said Dr. Yar Mohammad Nizar Khan, head of pediatrics at Bost Hospital.</p>
+                  <p>Nonetheless, the numbers are still worrisome. Dr. Mohammad Dawood, a pediatrician at Bost Hospital, said there were seven or eight deaths a month there because of acute malnutrition from June through August, and five in September. Doctors around the country have reported similar rates.</p>
+                  <p>Officials at Unicef and the Afghan Ministry of Public Health have declined to characterize child malnutrition here as an emergency, however. As defined internationally, that would mean severe acute malnutrition in more than 10 percent of children younger than 5; health officials in Afghanistan estimate the rate is more like 7 percent.</p>
+                  <p>“Science-wise, the increase in number of children reporting to the hospitals is not an absolute evidence the situation is getting worse,” said Moazzem Hossain, head of nutrition for Unicef here. “It’s a good sign, the program is expanding, more are being screened, more are being found and treated.”</p>
+                  <p>Another problem is unreliable statistics.</p>
+                  <p>In January 2012, for instance, Unicef and the Afghan government’s Central Statistics Organization released a survey of more than 13,000 households showing that some provinces had reached or exceeded emergency levels, with more than 10 percent acute severe child malnutrition.</p>
+                  <p>The survey caused an uproar, but Unicef and the Health Ministry repudiated it, saying it was based on faulty research. Unicef then financed a more thorough child nutrition survey, which was completed in November, but the government has yet to release the data, said Dr. Bashir Ahmed Hamid, head of nutrition for the Health Ministry. “Unfortunately, we faced some challenges with data analysis.” </p>
+                  <p>Dr. Hamid said he expected the new data to show very high levels, probably more than 50 percent, of long-term or chronic malnutrition, which shows up as stunted growth in children. While acute malnutrition can be fatal, chronic malnutrition can cause multiple health and developmental problems.</p>
+                  <p>Unlike malnutrition crises elsewhere in the world, this one has not been connected to specific food shortages or crop failures. In addition, parents are not showing up malnourished, even when their children are.</p>
+                  <p>Doctors involved in treating the victims offer many explanations for what is happening. “There are mines in their fields, and they can’t get to their crops,” said Dr. Dawood in Helmand Province. “And they can’t get to help at local clinics, so they’re coming in very late stage in very critical condition.”</p>
+                  <p>His colleague Dr. Khan blamed another problem. “The main cause of malnutrition in Afghanistan is lack of breast feeding,” he said. “They see beautiful pictures of milk cartons, and they think it’s better.”</p>
+                  <p>In a country where access to clean water is difficult, and most milk is powdered, that is often a recipe for diarrhea and other conditions that can worsen malnutrition.</p>
+                  <p>In addition,<a href="http://data.worldbank.org/indicator/SP.DYN.CBRT.IN" title="World Bank birthrate data."> where women commonly have many children</a>, often with less than a year between them, it is difficult for mothers to provide enough nourishment, by breast or bottle. Ahmed Wali, the 2-year-old Bost Hospital patient with kwashiorkor, is the ninth of 10 children of his mother, Baka Bebi, who is in her mid-30s. She weaned him onto powdered milk mixed with stream water as soon as she could.</p>
+                  <p>Poverty is another factor. In Afghanistan, the poverty line is defined as a total income sufficient to provide 2,100 calories a day to each family member. Some 36 percent of Afghans are below that threshold, according to the Health Ministry.</p>
+                  <p>In 2013, <a href="http://www.unicef.org/appeals/files/UNICEF_Afghanistan_HAC_mid-year_report-_July_2013.pdf">Unicef raised its target for providing therapeutic foods to severe acutely malnourished</a> Afghan children, to 52,144 from 35,181. Therapeutic foods are specially made for the severely malnourished, who have difficulty digesting normal food.</p>
+                  <p>But Dr. Hossain of Unicef acknowledged that those programs had experienced supply-chain problems, and Unicef is working with the Health Ministry to develop better monitoring and management systems. Shipments of therapeutic foods, mostly made by two companies in France and Norway, have been reduced because of differences between NATO and Pakistan, and sanctions on Iran, the two countries with ports closest to landlocked Afghanistan, he said.</p>
+                  <p>“Managing a feeding system is difficult; there is a long way for Afghanistan to go,” he added. “But even countries like Sri Lanka, with an outstanding health system, are still struggling to manage therapeutic feeding supplies.”</p>
+                  <p>Cases of acute severe malnutrition are running at more than 100 a month, including five to 10 deaths, at Indira Gandhi Children’s Hospital in Kabul, and such cases have doubled since 2012, said Dr. Aqa Mohammad Shirzad, who is in charge of pediatric malnutrition programs there.</p>
+                  <p>Each of the hospital’s 17 beds for severely malnourished patients has at least two patients, and some have three. The malnutrition intensive care ward there has an incubator that does not work, one suction pump and oxygen bottles, for respiratory masks, propped up without stands or proper connections.</p>
+                  <p>A 5-year-old boy who weighs less than 20 pounds was being treated recently on a bench because the infusion line would not stretch to a bed. Two window panes nearby were missing glass.</p>
+                  <p>This is the country’s premier pediatric hospital, the one to which Fatima’s father was told to bring her from Bost Hospital to have heart surgery. She never arrived.</p>
+                  <p class="additionalinfo"><em class="i">Jawad Sukhanyar contributed reporting from Kabul, Afghanistan, Taimoor Shah from Kandahar, and New York Times employees from Khost and Kunar.
+</em></p>
+              </block>
+              <block class="ils_text"/>
+              <block class="ils"/>
+              <block class="related_topics"/>
+              <block class="related_slideshows"/>
+              <block class="related_articles"/>
+              <block class="review">
+                  <classifier class="performers" type=""/>
+                  <classifier class="author" type=""/>
+                  <classifier class="director" type=""/>
+                  <classifier class="producers" type=""/>
+                  <classifier class="release_date" type=""/>
+                  <classifier class="rating" type=""/>
+                  <classifier class="children" type=""/>
+                  <classifier class="parental_notes" type=""/>
+                  <classifier class="length" type=""/>
+                  <classifier class="review_sent" type=""/>
+                  <classifier class="review_title" type=""/>
+                  <classifier class="review_author" type=""/>
+                  <classifier class="tols_author" type=""/>
+                  <classifier class="tols_title" type=""/>
+                  <classifier class="type" type=""/>
+                  <classifier class="amg_id" type=""/>
+                  <classifier class="nyt_movie_id" type=""/>
+                  <classifier class="nyt_tv_id" type=""/>
+              </block>
+          </body.content>
+          <body.end>
+              <tagline class="contributed" type="std">
+                  <copyrite>Copyright 2019 The New York Times Company</copyrite>
+              </tagline>
+          </body.end>
+      </body>
+  </nitf>

@@ -1,0 +1,7 @@
+nitf:
+  <entity>: articles
+  <primary_key>: /nitf/head/docdata/doc-id/@id-string
+  <fields>:
+    /nitf/head/title: title
+    /nitf/head/docdata/date.issue/@norm: date
+    /nitf/body/body.content: paragraphs
