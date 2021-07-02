@@ -5,3 +5,15 @@ nitf:
     /nitf/head/title: title
     /nitf/head/pubdata/@date.publication: date
     /nitf/body/body.content: paragraphs
+
+head/docdata/key-list:
+  <entity>: keywords
+  <primary_key>: /nitf/head/docdata/doc-id/@id-string
+  <fields>:
+      "keyword/@key":
+        <fieldname>: keys
+        <joiner>: " || "
+
+
+
+
