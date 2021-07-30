@@ -1,5 +1,3 @@
-  GNU nano 2.0.6                                  File: config.yaml                                                                           
-
 nitf:
   <entity>: articles
   <primary_key>: /nitf/head/docdata/doc-id/@id-string
