@@ -3,14 +3,16 @@ nitf:
   <primary_key>: /nitf/head/docdata/doc-id/@id-string
   <fields>:
     /nitf/head/title: title
-    /nitf/head/meta[14]/@content: print_headline
     /nitf/head/pubdata/@date.publication: date
     /nitf/head/pubdata/@ex-ref: url
-    /nitf/body/body.head/byline: author
+    /nitf/head/meta[14]/@content: print_headline
+    /nitf/head/meta[4]/@content: credit
+    /nitf/head/meta[5]/@content: edition
     /nitf/head/meta[16]/@content: section
     /nitf/head/meta[17]/@content: subsection
     /nitf/head/meta[12]/@content: print_page_number
     /nitf/head/meta[13]/@content: print_section
+    /nitf/body/body.head/byline: author
     /nitf/body/body.head/abstract: abstract
     /nitf/body/body.content: paragraphs
 
@@ -19,7 +21,7 @@ head/docdata/key-list:
   <primary_key>: /nitf/head/docdata/doc-id/@id-string
   <fields>:
       "keyword/@key":
-        <fieldname>: keys
+        <fieldname>: keywords
         <joiner>: " || "
 
 head/docdata/identified-content:
@@ -29,16 +31,11 @@ head/docdata/identified-content:
       "/nitf/head/docdata/identified-content/location":
         <fieldname>: locations
         <joiner>: " || "
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+head/docdata/identified-content:
+  <entity>: people
+  <primary_key>: /nitf/head/docdata/doc-id/@id-string
+  <fields>:
+      "person":
+        <fieldname>: people
+        <joiner>: " || "
