@@ -3,23 +3,44 @@ nitf:
   <primary_key>: /nitf/head/docdata/doc-id/@id-string
   <fields>:
     /nitf/head/title: title
-    /nitf/head/pubdata/@date.publication: date
+    /nitf/head/pubdata/@date.publication: publish_date
     /nitf/head/pubdata/@ex-ref: url
     /nitf/body/body.head/byline: author
     /nitf/body/body.head/abstract: abstract
-    /nitf/body/body.content: paragraphs
+    /nitf/body/body.content: paragraphs      
 
-    head:
-      <entity>: meta
-      <primary_key>: /nitf/head/docdata/doc-id/@id-string
-      <fields>:
-        /nitf/head/meta[14]/@content: print_headline
-        /nitf/head/meta[4]/@content: credit
-        /nitf/head/meta[5]/@content: edition
-        /nitf/head/meta[16]/@content: section
-        /nitf/head/meta[17]/@content: subsection
-        /nitf/head/meta[12]/@content: print_page_number
-        /nitf/head/meta[13]/@content: print_section
+
+head:
+  <entity>: meta
+  <primary_key>: /nitf/head/docdata/doc-id/@id-string
+  <fields>:
+    /nitf/head/meta[2]/@content: x1
+    /nitf/head/meta[3]/@content: credit
+    /nitf/head/meta[4]/@content: x3
+    /nitf/head/meta[5]/@content: x4
+    /nitf/head/meta[6]/@content: x5
+    /nitf/head/meta[7]/@content: x6
+    /nitf/head/meta[8]/@content: x7
+    /nitf/head/meta[9]/@content: x8
+    /nitf/head/meta[10]/@content: x9
+    /nitf/head/meta[11]/@content: print_page_number
+    /nitf/head/meta[12]/@content: print_section
+    /nitf/head/meta[13]/@content: print_headline
+    /nitf/head/meta[14]/@content: x13
+    /nitf/head/meta[15]/@content: section
+    /nitf/head/meta[16]/@content: subsection
+    /nitf/head/meta[17]/@content: section_display
+    /nitf/head/meta[18]/@content: subsection_display
+    /nitf/head/meta[19]/@content: x18
+    /nitf/head/meta[20]/@content: x19
+    /nitf/head/meta[21]/@content: x20
+    /nitf/head/meta[22]/@content: update_date
+    /nitf/head/meta[23]/@content: update_type
+    /nitf/head/meta[24]/@content: x23
+    /nitf/head/meta[25]/@content: x24
+    /nitf/head/meta[26]/@content: x25
+    /nitf/head/meta[27]/@content: x26
+ 
 
 head/docdata/key-list:
   <entity>: keywords
@@ -44,3 +65,4 @@ head/docdata/identified-content:
       "person":
         <fieldname>: people
         <joiner>: " || "
+
