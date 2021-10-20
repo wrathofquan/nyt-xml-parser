@@ -2,6 +2,9 @@
 
 """ Module Description """
 
+# xmltotabular is designed for large, pseudo-xml. The nyt files need to be concatenated to be used efficiently in the program
+# In Bash: find ./nyt_nitf_*/*/ -type f -name "*.xml" -exec cat {} + > nyt_all_articles.xml
+
 import logging
 
 from xmltotabular import XmlCollectionToTabular
