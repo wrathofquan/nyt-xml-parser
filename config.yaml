@@ -14,7 +14,7 @@ head:
   <entity>: meta
   <primary_key>: /nitf/head/docdata/doc-id/@id-string
   <fields>:
-    /nitf/head/meta[2]/@content: slug
+    /nitf/head/meta[3]/@content: dsk
     /nitf/head/meta[3]/@content: credit
     /nitf/head/meta[4]/@content: edt
     #/nitf/head/meta[5]/@content: x4
